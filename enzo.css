@@ -49,3 +49,9 @@ nav a{
     font-weight: 300;
     font-size: 100%;
 }
+
+.borda {
+    border-color: rgb(3, 10, 8);
+    border-width: 30px;
+    border-style: solid;
+}
