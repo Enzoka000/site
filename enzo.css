@@ -56,6 +56,6 @@ nav a{
     border-style: solid;
 }
 nav a:hover {
-    color: orange;
+    color:orange;
     text-decoration: underline;
 }
